@@ -1,0 +1,6 @@
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\bin\Debug\ConversorCambio.exe.config
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\bin\Debug\ConversorCambio.exe
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\bin\Debug\ConversorCambio.pdb
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\obj\Debug\ConversorCambio.csprojResolveAssemblyReference.cache
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\obj\Debug\ConversorCambio.exe
+c:\users\sthefanne\documents\visual studio 2013\Projects\ConversorCambio\ConversorCambio\obj\Debug\ConversorCambio.pdb
